@@ -69,9 +69,9 @@ main {
     padding: 20px;
 }
 
-/* main img{
-    width: 35%;
-} */
+main img{
+    width: 85%;
+}
 
 #lower {
     display: flex;
@@ -115,10 +115,13 @@ hr{
 
 #types {
     display: flex;
+    width: 95%;
+    margin: 0 auto;
+
 
 }
 
 .turtlecover {
-   width: 175%;
+   width: 110%;
    margin: 15px; 
 }
